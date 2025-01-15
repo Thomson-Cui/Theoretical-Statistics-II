@@ -1,5 +1,10 @@
 # Theoretical-Statistics-II
- STAT 446 Theoretical Statistics II
+STAT 446 Theoretical Statistics II
+
+<div align="center">
+    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-II/blob/main/Images/5-1-1.png" alt="Statistical Inference" width="50%">
+</div>
+
 ## Required Textbook
 
 [Statistical Inference (Second Edition), by George Casella and Roger L. Berger.](https://github.com/Thomson-Cui/Theoretical-Statistics-II/blob/main/Books/textbook.pdf)
