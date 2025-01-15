@@ -11,3 +11,11 @@
 The objective of this course is to introduce to students the mathematical theory of statistical inference,
 which is fundamentally important for understanding commonly used statistical concepts and methods. We
 plan to cover the following topics.
+- Large sample theory
+ - Convergence concepts, Weak Law of Large Numbers, Central Limit Theorem, Delta method
+- Point Estimation
+ - Method of Moments, Maximum Likelihood Estimation, Comparing statistical procedures (Risk function, Inadmissibility and admissibility, Mean squared error), Properties of Estimators (Un- biasedness, Consistency, Suffcient Statistics, Minimum Variance Unbiased Estimators, Rao-Blackwell Theorem, Completeness, Cramer-Rao lower bound)
+- Interval Estimation
+ - Pivotal Method, "best" condence interval, Large sample condence intervals
+- Hypothesis Testing
+ - Loss function and Risk, Critical region, Types of errors, Power function, Randomized tests, Size of a test, Testing simple versus simple hypotheses (Most powerful test, Neyman-Pearson Theorem), Simple versus composite hypotheses, composite versus composite hypotheses (one-sided), Likelihood ratio test
