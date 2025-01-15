@@ -1,10 +1,5 @@
 # Theoretical-Statistics-II
 STAT 446 Theoretical Statistics II
-
-<div align="center">
-    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-II/blob/main/Images/5-1-1.png" alt="Statistical Inference" width="50%">
-</div>
-
 ## Required Textbook
 
 [Statistical Inference (Second Edition), by George Casella and Roger L. Berger.](https://github.com/Thomson-Cui/Theoretical-Statistics-II/blob/main/Books/textbook.pdf)
@@ -25,3 +20,7 @@ plan to cover the following topics.
   - Pivotal Method, "best" confidence interval, Large sample confidence intervals
 - Hypothesis Testing
   - Loss function and Risk, Critical region, Types of errors, Power function, Randomized tests, Size of a test, Testing simple versus simple hypotheses (Most powerful test, Neyman-Pearson Theorem), Simple versus composite hypotheses, composite versus composite hypotheses (one-sided), Likelihood ratio test
+
+<div align="center">
+    <img src="https://github.com/Thomson-Cui/Theoretical-Statistics-I/blob/main/Images/Table%20of%20Common%20Distribution.jpg" alt="Statistical Inference">
+</div>
