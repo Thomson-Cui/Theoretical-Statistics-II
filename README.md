@@ -26,7 +26,7 @@ plan to cover the following topics.
 - Hypothesis Testing
   - Loss function and Risk, Critical region, Types of errors, Power function, Randomized tests, Size of a test, Testing simple versus simple hypotheses (Most powerful test, Neyman-Pearson Theorem), Simple versus composite hypotheses, composite versus composite hypotheses (one-sided), Likelihood ratio test
 
-# Lecture Notes
+## Lecture Notes
 
 - [Chapter 5.1-5.4 Statistical Inference and Random Samples](Chapter_05_01_Statistical_Inference_and_Random_Samples.ipynb)  
   **CB Sections 5.1 - 5.4, DS Section 7.1**  
