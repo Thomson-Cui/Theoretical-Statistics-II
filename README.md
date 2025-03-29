@@ -26,17 +26,6 @@ plan to cover the following topics.
 - Hypothesis Testing
   - Loss function and Risk, Critical region, Types of errors, Power function, Randomized tests, Size of a test, Testing simple versus simple hypotheses (Most powerful test, Neyman-Pearson Theorem), Simple versus composite hypotheses, composite versus composite hypotheses (one-sided), Likelihood ratio test
 
-## Lecture Notes
-- [Chapter 5.1-5.4 Statistical Inference and Random Samples](Chapter_05.1-05.4_Statistical_Inference_and_Random_Samples.ipynb)
-- [Chapter 5.5.1-5.5.3 Convergence Concepts](Chapter_05.5.1-05.5.3_Convergence_Concepts.ipynb)
-- [Chapter 5.5.3-5.5.4 Central Limit Theorem, Slutsky, and the Delta Method](Chapter_05.5.3-05.5.4_Central_limit_theorem_Slutsky_and_the_Delta_method.ipynb)
-- [Chapter 6.1-6.2 Principles of Data Reduction](Chapter_06.1-06.2_Principles_of_data_reduction.ipynb)
-- [Chapter 7.1-7.2 Methods of Finding Point Estimators](Chapter_07.1-07.2_Methods_of_finding_point_estimators.ipynb)
-- [Chapter 7.3.1-7.3.2 Methods of Evaluating Point Estimators](Chapter_07.3.1-07.3.2_Methods_of_Evaluating_point_estimators.ipynb)
-- [Chapter 7.3.3 Sufficiency and Unbiasedness](Chapter_07.3.3_Sufficiency_and_unbiasedness.ipynb)
-- [Chapter 8.1-8.2 Hypothesis Testing](Chapter_08.1-08.2_Hypothesis_Testing.ipynb)
-- [Chapter 10.1 Asymptotic Evaluations of Point Estimators](Chapter_10.1_Asymptotic_evaluations_of_point_estimators.ipynb)
-
 #### 📩 Contact
 If you spot any errors in the notes or have suggestions for improvement, feel free to reach out.
 - **Email:** [zxc701@case.edu](zxc701@case.edu) 
