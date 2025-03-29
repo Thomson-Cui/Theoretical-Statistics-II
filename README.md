@@ -26,6 +26,75 @@ plan to cover the following topics.
 - Hypothesis Testing
   - Loss function and Risk, Critical region, Types of errors, Power function, Randomized tests, Size of a test, Testing simple versus simple hypotheses (Most powerful test, Neyman-Pearson Theorem), Simple versus composite hypotheses, composite versus composite hypotheses (one-sided), Likelihood ratio test
 
+# Lecture Notes
+
+- [Chapter 5.1-5.4 Statistical Inference and Random Samples](Chapter_05_01_Statistical_Inference_and_Random_Samples.ipynb)  
+  **CB Sections 5.1 - 5.4, DS Section 7.1**  
+  - Statistical Inference  
+  - Random Samples - Review  
+    - Random samples from a Normal distribution  
+    - Order Statistics  
+
+- [Chapter 5.5.1-5.5.3 Convergence Concepts](Chapter_05_02_Convergence_Concepts.ipynb)  
+  **CB Sections 5.5.1 - 5.5.3, DS Sections 6.1 - 6.2**  
+  - Convergence Concepts  
+
+- [Chapter 5.5.3-5.5.4 Central Limit Theorem, Slutsky, and the Delta Method](Chapter_05_03_Central_limit_theorem_Slutsky_and_the_Delta_method.ipynb)  
+  **CB Sections 5.5.3 - 5.5.4, DS Section 6.3**  
+  - Central Limit Theorem  
+  - Slutsky's Theorem  
+  - Delta Method  
+
+- [Chapter 6.1-6.2 Principles of Data Reduction](Chapter_06_01_Principles_of_data_reduction.ipynb)  
+  **CB Sections 6.1 - 6.2, DS Section 7.7**  
+  - Sufficient Statistic  
+  - Minimal Sufficient Statistic  
+  - Ancillary Statistic  
+  - Complete Statistic  
+
+- [Chapter 7.1-7.2 Methods of Finding Point Estimators](Chapter_07_01_Methods_of_finding_point_estimators.ipynb)  
+  **CB Sections 7.1 - 7.2, DS Sections 7.5, 7.2 - 7.4**  
+  *Note: Skips CB Section 7.2.4*  
+  - Method of Moments  
+  - Maximum Likelihood  
+    - Examples  
+    - Invariance Property  
+  - Bayes Estimators  
+    - Binomial-Beta Model  
+    - Proportionality Argument  
+    - Normal-Normal Model  
+
+- [Chapter 7.3.1-7.3.2 Methods of Evaluating Point Estimators](Chapter_07_02_Methods_of_Evaluating_point_estimators.ipynb)  
+  **CB Sections 7.3.1 - 7.3.2, DS Section 7.6**  
+  - Unbiased Estimators  
+  - Mean Squared Error  
+  - Examples  
+  - Best Unbiased Estimators  
+  - Cramer-Rao Lower Bound  
+
+- [Chapter 7.3.3 Sufficiency and Unbiasedness](Chapter_07_03_Sufficiency_and_unbiasedness.ipynb)  
+  **CB Section 7.3.3, DS Section 7.9**  
+  *Note: Skips CB Section 7.3.4 for now*  
+  - Sufficiency and Unbiasedness  
+
+- [Chapter 8.1-8.2 Hypothesis Testing: Methods of Finding Tests](Chapter_08_01_Hypothesis_Testing.ipynb)  
+  **CB Sections 8.1 - 8.2, DS Section 9.1**  
+  - Introduction to Hypothesis Testing  
+    - Example: Microelectronic Solder Joints  
+  - Statistical Hypothesis Testing in General  
+  - Likelihood Ratio Tests  
+  - Union-Intersection and Intersection-Union Methods  
+  - Bayesian Tests  
+
+- [Chapter 10.1 Asymptotic Evaluations of Point Estimators](Chapter_10_01_Asymptotic_evaluations_of_point_estimators.ipynb)  
+  **Section 10.1**  
+  *Note: Skips Section 10.1.4 (Bootstrap)*  
+  - Consistency  
+    - Consistency of MLEs  
+  - Asymptotic Efficiency  
+  - Asymptotic Relative Efficiency  
+
+
 #### 📩 Contact
 If you spot any errors in the notes or have suggestions for improvement, feel free to reach out.
 - **Email:** [zxc701@case.edu](zxc701@case.edu) 
