@@ -88,10 +88,10 @@ plan to cover the following topics.
 
 - [Chapter 8.2 Methods of Evaluating Tests](Chapter_08_02_Methods_of_evaluating_tests.ipynb)  
 **Section 8.3.1 (CB), Section 9.1 (DS)**  
-- Power Function  
-- Type I and Type II Errors  
-- Examples  
-- Level and Size of Tests  
+  - Power Function  
+  - Type I and Type II Errors  
+  - Examples  
+  - Level and Size of Tests  
 
 - [Chapter 10.1 Asymptotic Evaluations of Point Estimators](Chapter_10_01_Asymptotic_evaluations_of_point_estimators.ipynb)  
   **Section 10.1**  
