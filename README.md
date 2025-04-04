@@ -93,6 +93,15 @@ plan to cover the following topics.
   - Examples  
   - Level and Size of Tests  
 
+- [Chapter 8.3 Most Powerful Tests and p-values](Chapter_08_03.ipynb)
+ **CB Sections 8.3.2 and 8.3.4, DS Sections 9.2 and 9.3**
+ *Note: We skip Section 8.3.3 for now*
+   - Most Powerful Tests
+     - Neyman-Pearson Lemma (simple hypotheses)
+     - Karlin-Rubin Theorem (composite hypotheses)
+     - Most Powerful Unbiased Tests
+   - p-values
+
 - [Chapter 10.1 Asymptotic Evaluations of Point Estimators](Chapter_10_01_Asymptotic_evaluations_of_point_estimators.ipynb)  
   **Section 10.1**  
   *Note: Skips Section 10.1.4 (Bootstrap)*  
