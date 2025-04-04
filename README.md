@@ -93,8 +93,8 @@ plan to cover the following topics.
   - Examples  
   - Level and Size of Tests  
 
-- [Chapter 8.3 Most Powerful Tests and p-values](Chapter_08_03.ipynb)
- **CB Sections 8.3.2 and 8.3.4, DS Sections 9.2 and 9.3**
+- [Chapter 8.3 Most Powerful Tests and p-values](Chapter_08_03_Most_Powerful_Tests_and_p_values.ipynb)
+**CB Sections 8.3.2 and 8.3.4, DS Sections 9.2 and 9.3**
  *Note: We skip Section 8.3.3 for now*
    - Most Powerful Tests
      - Neyman-Pearson Lemma (simple hypotheses)
