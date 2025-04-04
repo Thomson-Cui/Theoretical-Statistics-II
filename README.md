@@ -87,15 +87,15 @@ plan to cover the following topics.
   - Bayesian Tests  
 
 - [Chapter 8.2 Methods of Evaluating Tests](Chapter_08_02_Methods_of_evaluating_tests.ipynb)  
-**Section 8.3.1 (CB), Section 9.1 (DS)**  
+  **Section 8.3.1 (CB), Section 9.1 (DS)**  
   - Power Function  
   - Type I and Type II Errors  
   - Examples  
   - Level and Size of Tests  
 
 - [Chapter 8.3 Most Powerful Tests and p-values](Chapter_08_03_Most_Powerful_Tests_and_p_values.ipynb)  
-**Sections 8.3.2 and 8.3.4 (CB), Sections 9.2 and 9.3 (DS)**
- *Note: We skip Section 8.3.3 for now*
+  **Sections 8.3.2 and 8.3.4 (CB), Sections 9.2 and 9.3 (DS)**
+  *Note: We skip Section 8.3.3 for now*
    - Most Powerful Tests
      - Neyman-Pearson Lemma (simple hypotheses)
      - Karlin-Rubin Theorem (composite hypotheses)
