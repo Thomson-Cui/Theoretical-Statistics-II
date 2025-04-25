@@ -102,6 +102,16 @@ plan to cover the following topics.
     - Most Powerful Unbiased Tests
   - p-values
 
+- [Chapter 8.4 Loss-function optimality – Decision Theory](Chapter_08_04_Decision_Theory.ipynb)  
+  **CB Sections 7.3.4 and 8.3.5, DS Sections 7.4 and 9.8**
+  - Decision Theory
+    - Actions
+    - Loss functions for point estimation
+    - Risk function
+    - Example: Point estimation
+    - Bayes risk
+    - Loss functions for hypothesis testing
+
 - [Chapter 10.1 Asymptotic Evaluations of Point Estimators](Chapter_10_01_Asymptotic_evaluations_of_point_estimators.ipynb)  
   **Section 10.1**  
   *Note: Skips Section 10.1.4 (Bootstrap)*  
